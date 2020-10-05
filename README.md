@@ -2,6 +2,7 @@ This is a clean create-react-app boilerplate.
 Files and code deleted:
 
 - files:
+
   /public/:
   
   favicon.ico
