@@ -3,6 +3,7 @@ Files and code deleted:
 
 - files:
   /public/:
+  
   favicon.ico
   logo192.png
   logo512.png
