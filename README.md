@@ -5,22 +5,35 @@ Files and code deleted:
   /public/:
   
   favicon.ico
+  
   logo192.png
+  
   logo512.png
 
 /src/:
+
 App.css
+
 App.test.js
+
 logo.svg
+
 serviceWorker.js
+
 setupTests.js
 
 - code:
+
   /src/index.js - cleaned up
+  
   /src/index.css - cleaned up
+  
   /src/App.js - cleaned up
+  
   /public/index.html - cleaned up
+  
   /public/manifest.json - cleaned up
+  
 
 ## Available Scripts
 
